@@ -1,0 +1,14 @@
+# Đường dẫn gốc (ROOT directory)
+# Đặt đường dẫn đến thư mục 'data' đã chứa images/labels/train/val
+path: D:\Document_Layout\data 
+
+# Đường dẫn đến ảnh TRAIN (Tương đối so với 'path')
+train: images/train
+# Đường dẫn đến ảnh VAL
+val: images/val
+
+# Số lượng classes
+nc: 4
+
+# Tên các classes theo đúng thứ tự nhãn đã gán (index 0, 1, 2, 3)
+names: ['bảng', 'chữ', 'logo', 'tiêu đề']

@@ -8,7 +8,7 @@ train: images/train
 val: images/val
 
 # Số lượng classes
-nc: 4
+nc: 7
 
 # Tên các classes theo đúng thứ tự nhãn đã gán (index 0, 1, 2, 3)
-names: ['bảng', 'chữ', 'logo', 'tiêu đề']
+names: ['Logo','Picture','Section header','Signature','Table','Text','Title']

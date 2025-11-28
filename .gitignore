@@ -13,4 +13,4 @@ __pycache__/
 # Bỏ qua file hệ thống máy Mac/Windows
 .DS_Store
 Thumbs.db
-.rar
+*.rar

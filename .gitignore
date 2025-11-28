@@ -1,0 +1,16 @@
+# Bỏ qua thư mục môi trường ảo (Rất quan trọng)
+.venv/
+venv/
+
+# Bỏ qua các thư mục kết quả chạy và log
+Output/
+runs/
+__pycache__/
+
+# Bỏ qua dữ liệu dataset (nếu nặng)
+1. VAB - BCB niem yet/
+
+# Bỏ qua file hệ thống máy Mac/Windows
+.DS_Store
+Thumbs.db
+.rar
